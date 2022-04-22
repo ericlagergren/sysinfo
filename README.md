@@ -1,2 +1,2 @@
-# cpuinfo
-CPU detection
+# sysinfo
+System information detection
